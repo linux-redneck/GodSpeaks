@@ -4,10 +4,9 @@ import os
 
 def buildWindow():
     window = Tk()
-    #window.configure(background="")
-    window.title("The Word of God")
+    window.title("Speak to God")
     window.geometry("900x175")
-    #Labels
+
     lblGodSays = Label(window, text="God says:", font="10")
     lblGodSays.grid(column=0, row=0)
     lblWord0 = Label(window, text=word0)
@@ -76,7 +75,7 @@ def buildWindow():
     lblWord31.grid(column=0, row=4)
     lblWord32 = Label(window, text=".")
     lblWord32.grid(column=1, row=4)
-    #Buttons
+
     btnNew = Button(window, text="Generate Answer", command=restartProgram)
     btnNew.grid(column=3, row=99)
     btnExit = Button(window, text="Exit", command=exit)
