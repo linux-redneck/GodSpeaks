@@ -1,3 +1,7 @@
-# GodSays
+# GodSpeaks
+<p align="center">
+    <img src="logo.jpg">
+</p>
+
 ## About
-GodSays is Python port of Terry Davis's God Says program. It's written using Tkinter, which is a Python interface.
+GodSpeaks is a Python port of Terry Davis's (R.I.P.) God Speaks program.
