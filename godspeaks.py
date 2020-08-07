@@ -1,7 +1,7 @@
 import random
 
 def main():
-    with open('english.txt') as f:
+    with open('Happy.TXT') as f:
         godWords = f.read().splitlines()
 
     print(end="God says... ")
