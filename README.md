@@ -5,3 +5,5 @@
 
 ## About
 GodSpeaks is a Python port of Terry Davis's (R.I.P.) God Speaks program.
+
+**2018-2020**
