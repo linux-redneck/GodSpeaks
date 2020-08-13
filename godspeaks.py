@@ -7,7 +7,7 @@ def main():
     print(end="God says... ")
 
     #print random words from list godWords 31+1 times
-    for x in range(0, 30):
+    for x in range(0, 32):
         words = random.choice(godWords)
         print(words, end=" ")
 
